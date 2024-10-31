@@ -7,7 +7,7 @@
 // Input : str = "aaaabbcbbb"
 // Output : a
 
-// Brute Force Approach
+
 function maxConsecutive(str){
     let currentChar = str[0];
     let currentCount = 1;
